@@ -1,4 +1,4 @@
-//Calculator JS
+//Calculator#1 JS
 class Calculator{
     constructor(previousTextElement,currentTextElement){
         this.previousTextElement = previousTextElement
